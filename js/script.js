@@ -5,6 +5,15 @@ let updateBtn = document.querySelector('.update')
 let listItems = []
 let uindex;
 
+input.addEventListener('keydown', function(e){
+    if(e.key === 'Enter'){
+        if(btn.style.display === 'none'){
+            update.click()
+        }else{
+            btn.click()
+        }
+}
+})
 
 btn.addEventListener('click', function(){
     let data = input.value 
@@ -18,6 +27,7 @@ btn.addEventListener('click', function(){
 })
 
 function display(){
+    
    list.innerHTML = ''
     for(let i = 0; i < listItems.length; i++){
         
@@ -50,6 +60,7 @@ function display(){
 }
 
 updateBtn.addEventListener('click', function(){
+     if(!input.value.trim()) return
          listItems[uindex] = input.value
          updateBtn.style.display = 'none'
          btn.style.display = 'inline-block'
