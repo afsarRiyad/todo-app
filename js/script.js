@@ -22,7 +22,7 @@ btn.addEventListener('click', function(){
   
     display()
   
-
+console.log(data)
     
 })
 
