@@ -21,8 +21,6 @@ btn.addEventListener('click', function(){
     listItems.push(data)
   
     display()
-  
-console.log(data)
     
 })
 
