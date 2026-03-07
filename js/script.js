@@ -20,8 +20,7 @@ btn.addEventListener('click', function(){
     if(!data.trim()) return
     listItems.push(data)
   
-    display()
-    
+    display()   
 })
 
 function display(){
