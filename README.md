@@ -1,5 +1,6 @@
 📝 Simple Todo App
 
+
 A simple Todo List web application that helps users manage daily tasks.
 Users can add, view, and remove tasks easily with a clean interface.
 
