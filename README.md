@@ -1,7 +1,9 @@
 📝 Simple Todo App
 
 A simple Todo List web application that helps users manage daily tasks.
-Users can add, view, and remove tasks easily with a clean interface.
+Users can add, view, and remove tasks easily with a clean interface.. 
+
+
 
 Todo apps are commonly used to practice basic CRUD operations (Create, Read, Update, Delete) and simple UI interactions.
 
