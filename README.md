@@ -47,8 +47,6 @@ Run the project
 
 Open index.html in your browser.
 
-
-
 This project was built to practice:
 
 JavaScript DOM manipulation
@@ -61,7 +59,7 @@ Managing lists dynamically
 
 👨‍💻 Author
 
-Riyad
+Nurul Afsar Riyad
 
 GitHub:
 https://github.com/afsarRiyad
