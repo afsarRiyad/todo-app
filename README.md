@@ -20,7 +20,6 @@ Todo apps are commonly used to practice basic CRUD operations (Create, Read, Upd
 
 ⚡ Lightweight and beginner-friendly
 
-
 🛠️ Technologies Used
 
 HTML5
